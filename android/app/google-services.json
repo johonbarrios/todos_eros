@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "542028854288",
+    "firebase_url": "https://miblogou-default-rtdb.firebaseio.com",
+    "project_id": "miblogou",
+    "storage_bucket": "miblogou.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:542028854288:android:116ba91d0525f722688695",
+        "android_client_info": {
+          "package_name": "com.rennepluss.todos_eros"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "542028854288-hup81k2vqcqsp32shd0e96po1a5f4hgi.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.rennepluss.todos_eros",
+            "certificate_hash": "10cf01a3b483a0b7bfda2a252d81aa49d70f5f2b"
+          }
+        },
+        {
+          "client_id": "542028854288-i8kglbel15d4uucss3uman9h0vv0kns0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDLRTHK_e_Knm0N_1BVcVa4ZVeDi17-HcY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "542028854288-i8kglbel15d4uucss3uman9h0vv0kns0.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
